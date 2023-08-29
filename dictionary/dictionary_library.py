@@ -1,59 +1,36 @@
 words_mean_2 = [
     {
-         "associated": "متصل - مرتبط - همراه است - در ارتباط است"
+         "associated": "(of a person or thing) connected with something else."
     },
     {
-         "statement": "گزاره - عبارت"
+         "triggered": "(of a mechanism) activated by a trigger"
     },
     {
-         "triggered": "زور کرد - باعث شد"
+         "constructing": "build or make (something, typically a building, road, or machine)."
     },
     {
-         "constructing": "در حال ساختن - بنا کردن"
+         "constructor": "a person or company that builds, designs, or makes something, a subroutine designed to create an object in a particular class."
     },
     {
-         "constructor": "سازنده - واحد سازنده(مبحث شی گرایی)"
+         "character": "the mental and moral qualities distinctive to an individual."
     },
     {
-         "notation": "دَوَران - چرخش - گردش بدورِ..."
+         "aim": "a purpose or intention; a desired outcome, the directing of a weapon or missile at a target"
     },
     {
-         "obviously": "قاعدتاً - به وضوح"
+         "objective": "a thing aimed at or sought; a goal"
+    },
+
+    {
+         "i.e": "for instance"
     },
     {
-         "character": "شخصیت - کاراکتر"
-    },
-    {
-         "expensive": "گرانبها - گران"
-    },
-    {
-         "damage": "خسارت"
-    },
-    {
-         "aim": "هدف"
-    },
-    {
-         "objective": "هدف"
-    },
-    {
-         "faith": "ایمان - باور"
-    },
-    {
-         "strength": "قدرت"
-    },
-    {
-         "example": "مثال"
-    },
-    {
-         "instance": "نمونه (به عنوان نمونه - برای مثال)"
-    },
-    {
-         "i.e": "به عنوان نمونه - برای مثال"
-    },
-    {
-         "e.g": "به عنوان نمونه - برای مثال"
+         "e.g": "for example"
     },
     {
         "resident evil": "A game series from CAPCOM Corporation"
+    },
+    {
+        "trigger": "a small device that releases a spring or catch and so sets off a mechanism, especially in order to fire a gun, cause (a device) to function."
     }
 ]
