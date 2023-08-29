@@ -32,5 +32,11 @@ words_mean_2 = [
     },
     {
         "trigger": "a small device that releases a spring or catch and so sets off a mechanism, especially in order to fire a gun, cause (a device) to function."
+    },
+    {
+        "bind": "stick together or cause to stick together in a single mass."
+    },
+    {
+        "binding": "having power to bind or oblige; obligatory"
     }
 ]
