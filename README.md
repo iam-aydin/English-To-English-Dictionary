@@ -1,4 +1,9 @@
 # English-To-English-Dictionary
+<style>
+  img {
+    border-radius : 50%
+  }
+<style>
 <a href="url"><img src="https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png" height="auto" width="400"></a>
 
 <br/><br/> 
