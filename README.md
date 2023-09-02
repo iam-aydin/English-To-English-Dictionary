@@ -1,6 +1,6 @@
 # English-To-English-Dictionary
 ![Dict. image](https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png)
-&nbsp;
+<br/> 
 Hey it's Aydin
 
 I made this English to English dictionary as a hobby project. It’s got a bunch of words and definitions in it, so you can learn new stuff and sound smarter when you talk. It’s super easy to use - just type in the word you want and boom! You get the definition. It’s great for students, professionals, or anyone who wants to learn new words and impress their friends.
