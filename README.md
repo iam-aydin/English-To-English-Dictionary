@@ -1,5 +1,6 @@
 # English-To-English-Dictionary
 ![Dict. image](https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png)
+<a href="url"><img src="[https://desmond75.github.io/img/IMG_20171214_095012.jpg](https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png)" height="auto" width="200" style="border-radius:50%"></a>
 
 <br/><br/> 
 Hey it's Aydin
