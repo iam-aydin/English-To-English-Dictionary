@@ -1,6 +1,5 @@
 # English-To-English-Dictionary
-![Dict. image](https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png)
-  <a href="url"><img src="https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png" height="auto" width="200" style="border-radius:50%"></a>
+<a href="url"><img src="https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png" height="auto" width="200" style="border-radius:50%"></a>
 
 
 <br/><br/> 
