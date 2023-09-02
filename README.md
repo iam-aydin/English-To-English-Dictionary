@@ -1,5 +1,5 @@
 # English-To-English-Dictionary
-<a href="url" style="border-radius : 50%"><img src="https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png" height="auto" width="400"></a>
+<a href="url" style="border: 50%"><img src="https://github.com/iam-aydin/English-To-English-Dictionary/blob/0acd7257efebb1e85c00149706ea443aaff8f161/splash.png" height="auto" width="400"></a>
 
 <br/><br/> 
 Hey it's Aydin
