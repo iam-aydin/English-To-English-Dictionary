@@ -41,6 +41,10 @@ def search_answer(event=None):
             font_size = 12 if len(mean) > 200 else 11 if len(mean) > 500 else 14
             canvas2.itemconfig(answer_to_search, text=f"\nWord :{word.title()}\nMeaning {mean}", font=("consolas", font_size, "normal"))
             for_copy = f"\nWord :{word.title()}\nMeaning {mean}"
+        elif word == "" :
+            canvas2.itemconfig(answer_to_search, text="", font=("consolas", 14, "normal"))
+            for_copy = ""
+
         else:
             canvas2.itemconfig(answer_to_search, text=f"""The word "{user_s_word}" is not in program's dictionary yet.""", font=("consolas", 14, "normal"))
             for_copy = ""
