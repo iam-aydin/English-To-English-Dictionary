@@ -1,8 +1,15 @@
 import os
 from os import system
 import pandas
+import sys
 
-cur_version = "v2.9"
+if getattr(sys, 'frozen', False):
+    base_path = sys._MEIPASS  # Temp folder where PyInstaller unpacks files
+else:
+    base_path = os.path.abspath(".")
+
+data_path = os.path.join(base_path, "dictionary_data.csv")
+cur_version = "v3.7"
 # to get user's OS type
 os_type = os.name
 
@@ -21,7 +28,7 @@ users_word = input("Please enter a word: ").lower()
 def start_loop(user_s_word):
     """Searches for the user's input word in a single dictionary CSV file."""
     try:
-        data = pandas.read_csv("dictionary_data.csv")
+        data = pandas.read_csv(data_path)
     except FileNotFoundError:
         print("The dictionary data file was not found.")
         return
